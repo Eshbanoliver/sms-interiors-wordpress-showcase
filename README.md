@@ -13,13 +13,6 @@ We specialize in creating personalized, functional, and aesthetic living and wor
 - Modular Kitchen Design
 - Living Room Makeovers
 
-### 📍 Location
-**7-8 Shantivan, Bedla Road, Near Alok School Street,**  
-**Fatehpura, Udaipur City - 313001, Rajasthan**
-
-**Phone**: +91-99829 55545  
-**Email**: smsdesignstudio01@gmail.com
-
 ---
 
 ## 🛠 Tech Stack
@@ -31,3 +24,22 @@ We specialize in creating personalized, functional, and aesthetic living and wor
 ---
 
 ## 📁 Repository Structure
+sms-interiors/
+├── wp-content/
+│   ├── themes/
+│   │   └── sms-interiors-theme/          # Child theme (if custom)
+│   ├── plugins/                          # Custom plugins (if any)
+│   └── uploads/                          # Media (optional - gitignored)
+├── database/
+│   └── sms_interiors_2025.sql            # Latest DB export
+├── exports/
+│   └── elementor-templates/              # JSON templates
+├── screenshots/
+│   ├── homepage.jpg
+│   ├── services.jpg
+│   └── contact.jpg
+├── docs/
+│   ├── client-brief.md
+│   └── maintenance-guide.md
+├── .gitignore
+├── README.md
