@@ -1,0 +1,16 @@
+# WordPress
+wp-content/uploads/*
+wp-content/upgrade/*
+wp-content/backup-*
+wp-config.php
+wp-content/themes/*/node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Database
+*.sql.gz
+database/*.zip
+
+# Sensitive
+.env
